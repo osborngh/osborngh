@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Osborn. Passionate Developer from Ghana, Africa
+I'm Osborn. I'm a 16 y/o self taught from Ghana, Africa.
 
 Here are some ideas to get you started:
 
@@ -10,6 +10,7 @@ Here are some ideas to get you started:
     - Computer Graphics and Game Development.
     - Game Engine Design.
     - Programming Language Construction.
+- Things I would like to learn in the future
     - OS Development.
     - Emulation.
     - Electronics and Physics.
