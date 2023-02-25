@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Osborn. I'm a 17 y/o self taught based in Ghana, Africa.<br>
-Interested in learning Computer Science, Physics, Electronics and Stuff in general.<br>
-Currently a high school student.
+Currently a high school student.<br>
+Interested in learning Computer Science, Physics, Electronics and Stuff in general.
 
 <br>
 
