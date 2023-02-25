@@ -6,6 +6,8 @@ Interested in learning Computer Science, Physics, Electronics and Stuff in gener
 Currently a high school student.
 
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact)](https://github.com/osborngh/github-readme-stats)
 
+<br>
 ![](https://komarev.com/ghpvc/?username=osborngh)
