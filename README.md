@@ -3,6 +3,12 @@
 I'm Osborn. I'm a 17 y/o self taught based in Ghana, Africa.<br>
 Currently a high school student.<br>
 Interested in learning Computer Science, Physics, Electronics and Stuff in general.
+Please Support Me On
+
+<b>PAYPAL</b>: paypal.me/davincigh     
+<b>BITCOIN</b>: bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy
+
+Your support is very much appreciated since its quite difficult/expensive to obtain hardware for specific projects.
 
 <br>
 
