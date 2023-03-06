@@ -6,7 +6,7 @@ Interested in learning Computer Science, Physics, Electronics and Stuff in gener
 Please Support Me On<br>
 <b>PAYPAL</b>:    [paypal.me/davincigh](https://www.paypal.me/davincigh)    
 <b>BITCOIN</b>:   bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy <br>
-Right Now I use a Chromebook for development so i would be very happy if you could help me get a more powerful machine
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact)](https://github.com/osborngh/github-readme-stats)
