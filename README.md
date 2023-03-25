@@ -9,7 +9,7 @@ Please Support Me On<br>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact&langs_count=8&hide=["HTML", "CSS", "JavaScript"])](https://github.com/osborngh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact&langs_count=8&hide=html,css,javaScript)](https://github.com/osborngh/github-readme-stats)
 
 <br>
 
