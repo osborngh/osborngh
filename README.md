@@ -9,10 +9,6 @@
 - ⚡ Fun fact: I'm IronMan, don't tell.
 <hr>
 
-Support My Work On<br>
-<b>PAYPAL</b>:    [paypal.me/davincigh](https://www.paypal.me/davincigh)<br>
-<b>BITCOIN</b>:   bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy <br>
-
 <hr>
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osborngh&layout=compact&show_icons=true&theme=dark" />
@@ -20,4 +16,7 @@ Support My Work On<br>
 </div>
 <hr>
 
+Support My Work On<br>
+<b>PAYPAL</b>:    [paypal.me/davincigh](https://www.paypal.me/davincigh)<br>
+<b>BITCOIN</b>:   bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy <br>
 ![](https://komarev.com/ghpvc/?username=osborngh)
