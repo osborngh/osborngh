@@ -1,7 +1,7 @@
 ### Hey there, I'm Osborn 👋
 
 - 🔭 I'm a high school student from Ghana, West Africa.
-- 🧲 I’m currently taking a break from programming.
+- 🎯 I’m currently taking a break from programming.
 - 🌱 I’m currently learning Hacking and Game Engine Development.
 - 🦿 I'm interested in Computer Science, Physics and Electronics mainly.
 - 💬 Ask me about Python, Golang, Rust, and maybe a little bit of Cpp.
