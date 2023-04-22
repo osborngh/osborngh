@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-Support My Work On<br>
+Support Me On<br>
 **PAYPAL**:  [paypal.me/davincigh](https://www.paypal.me/davincigh)<br>
 **BITCOIN**:  `bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy` <br>
 
