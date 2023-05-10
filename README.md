@@ -10,9 +10,11 @@
 - ⚡ Fun fact: .
 <hr>
 
+
+https://github-readme-stats.vercel.app/api
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osborngh&layout=compact&show_icons=true&theme=dark" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact&langs_count=6&theme=dark&hide=css,scss,html,tex,makefile" />
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=osborngh&layout=compact&show_icons=true&theme=dark" />
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=osborngh&layout=compact&langs_count=6&theme=dark&hide=css,scss,html,tex,makefile" />
 </div>
 <hr>
 
