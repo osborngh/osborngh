@@ -1,6 +1,6 @@
 ### Hey there, I'm Osborn 👋
 
-- 🔭 I'm a high school student from Ghana, West Africa.
+- 🔭 I'm a student from Ghana, West Africa.
 - 🎯 I’m currently learning Ethical Hacking, Linux Kernel Development and Game Engine Development.
 - 🦿 I'm interested in Computer Science, Physics and Electronics mainly.
 - 📫 How to reach me: osbornghdev@gmail.com
