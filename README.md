@@ -15,7 +15,7 @@
 <hr>
 
 Support Me On<br>
-**PAYPAL**:  [paypal.me/davincigh](https://www.paypal.me/davincigh)<br>
+<!-- **PAYPAL**:  [paypal.me/davincigh](https://www.paypal.me/davincigh)<br> -->
 **BITCOIN**:  `bc1qzjxjdzal50sczzecwzhf3acyanyeez6hyczyuy` <br>
 
 ![](https://komarev.com/ghpvc/?username=osborngh)
