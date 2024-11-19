@@ -2,7 +2,7 @@
 
 - 🔭 I'm a student from Ghana, West Africa.
 - 🦿 I'm interested in Computer Science, Physics and Electronics.
-- 📫 How to reach me: osbornghdev@gmail.com
+- 📫 How to reach me: [Twitter](https://www.x.com/_vinci233) / [Instagram](https://www.instagram.com/_v.inci)
 - 😄 Pronouns: He/Him.
 <hr>
 
