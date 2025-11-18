@@ -6,10 +6,9 @@
 - 😄 Pronouns: He/Him.
 <hr>
 
-<div>
- ![Vinci's GitHub stats](https://github-readme-stats.vercel.app/api?username=osborngh&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<hr>
+![Vinci's GitHub stats](https://github-readme-stats.vercel.app/api?username=osborngh&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Page Views](https://komarev.com/ghpvc/?username=osborngh)
