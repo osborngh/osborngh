@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Twitter](https://www.x.com/_vinci233)
 
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 50px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=osborngh&layout=compact&theme=dark&hide_title=true&hide=html,css"
     height="200"
